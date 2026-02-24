@@ -1,4 +1,4 @@
-Simple API Pray Time Example
+### Simple API Pray Time Example
 
 This project is a simple C# console application that retrieves Islamic prayer times for Sfax, Tunisia using the Aladhan API. It fetches the daily prayer timings, along with the Gregorian date, Hijri month, and timezone information. The output is displayed in a formatted console interface using Spectre.Console.
 
